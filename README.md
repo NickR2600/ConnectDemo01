@@ -9,7 +9,7 @@ These labs are an introduction to JFrog Connect, the Internet of Things (IoT), a
 JFrog Connect is a modern Linux-first IoT platform designed to efficiently monitor, manage and update edge and IoT devices at scale. This is performed over a network connection, also known as over the air (OTA). The combined integration of JFrog Connect, with the JFrog Platform, allows automate software deployment from developer to device and avoid security vulnerabilities reaching production devices. Use-cases include manufacturing, automotive, security cameras, kiosks, and robots.
 
 ### Target Audience ###
-Technical people developing (or curious about) IoT and edge solutions, software engineer, DevOps engineers and architects, R&D, IT architects and managers.
+Technical people developing (or curious about) IoT and edge solutions, software engineer, DevOps engineers and architects, early stage startups making IoT applications, R&D, IT architects and managers.
 
 ### Contents ###
 - The `code` directory contains source code you will need for these labs.
