@@ -3,13 +3,15 @@
 ## Before You Begin ##
 
 ### About These Lab ###
-These labs are an instroduction to JFrog Connect, the Internet of Things (IoT), and edge computing. They are part of a Connect 101 workshop.
+These labs are an introduction to JFrog Connect, the Internet of Things (IoT), and edge computing. They are part of a Connect 101 workshop. It's introductory/beginner-friendly.
 
 ### About JFrog Connect ###
-JFrog Connect is a modern Linux-first IoT platform designed to efficiently monitor, manage and update edge and IoT devices at scale. This is performed over a network connection, also known as over the air (OTA).
-Use-cases include manufacturing, automotive, security cameras, kiosks, and robots.
+JFrog Connect is a modern Linux-first IoT platform designed to efficiently monitor, manage and update edge and IoT devices at scale. This is performed over a network connection, also known as over the air (OTA). The combined integration of JFrog Connect, with the JFrog Platform, allows automate software deployment from developer to device and avoid security vulnerabilities reaching production devices. Use-cases include manufacturing, automotive, security cameras, kiosks, and robots.
 
-### Other Contents ###
+### Target Audience ###
+Technical people developing (or curious about) IoT and edge solutions, software engineer, DevOps engineers and architects, R&D, IT architects and managers.
+
+### Contents ###
 - The `code` directory contains source code you will need for these labs.
 - The `img` directory stores images used in the lab instructions
 - Lab: [Readying a Raspberry Pi](/Ready-RPi.md)
