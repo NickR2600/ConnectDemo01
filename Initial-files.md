@@ -32,26 +32,34 @@ Use-cases include manufacturing, automotive, security cameras, kiosks, and robot
     runuser -l pi -c 'make && ls' > /dev/tty1
     ````
 5. Click **Save Flow**.
-6. When asked about the General Rollback, select **Continue Anyway**
+6. When asked about the General Rollback, select **Continue Anyway**.
+
     ![](img/UpdateFlow1.png)
 
 ### Deploy the Update Flow ###
 7. Navigate to **Updates** > **Update Flows**. 
 8. Click the **New Deployment cloud icon** for the `Initial Files` update.
+
     ![](img/Deploy1.png)
+    
 9. Click the **Select Devices** button.
 	- Filter for, and select your specific device.
 	- Select **Apply**, **Next**, **Finish**.
 10. In this case, unselect **Set app version**.
 11. Click **Create Deployment** and run the deployment.
+ 
     ![](img/Deploy2.png)
 
 ### Observe the Update ###
 12. Navigate to **Updates** > **Deployments**. 
 13. For the update you just created, click the **progress** icon.
+
     ![](img/Update1.png)
+    
 14. Observe the progress in the dialog box and the monitor attached to your RPi.
+
     ![](img/Update2.png)
+    
 15. After the deployment succeeds, enter `./demo` on the keyboard connected to the RPi to run the program.
 	- If you don’t have a RPi, do this in a 	remote terminal for the device created by Connect. **Remember to do this as the `pi` user**!
 
