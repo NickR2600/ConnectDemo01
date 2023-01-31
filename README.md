@@ -13,7 +13,7 @@ Use-cases include manufacturing, automotive, security cameras, kiosks, and robot
 - The `code` directory contains source code you will need for these labs.
 - The `img` directory stores images used in the lab instructions
 - Lab: [Readying a Raspberry Pi](/Ready-RPi.md)
-- Lab: [Readying a Demo Device](/Ready-demo-device.md
+- Lab: [Readying a Demo Device](/Ready-demo-device.md)
 - Lab: [Push Files to a Device, Compile, and Run](/Initial-files.md)
 - Lab: [Update a Device While its Program Runs](/Update-device.md)
 
