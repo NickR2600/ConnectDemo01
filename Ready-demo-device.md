@@ -43,4 +43,4 @@ It's possible to work with Connect with only the root user, but creating a user 
     ````
 
 ## Next Lab ##
-Jump to Step 14 of the lab **Readying a Raspberry Pi**.
+Jump to Step 14 of the lab [Readying a Raspberry Pi](/Ready-RPi.md).
