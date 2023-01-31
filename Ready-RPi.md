@@ -76,4 +76,4 @@ Skip Step 7 if you don’t need to find a wifi adapter driver.
     ![](img/Details.png)
 
 ## Next Lab ##
-Move on to the next lab, **Push Files to a Device, Compile, and Run**.
+Move on to the next lab, [Push Files to a Device, Compile, and Run](/Initial-files.md).
