@@ -61,7 +61,7 @@ Use-cases include manufacturing, automotive, security cameras, kiosks, and robot
     ![](img/Update2.png)
     
 15. After the deployment succeeds, enter `./demo` on the keyboard connected to the RPi to run the program.
-	- If you don’t have a RPi, do this in a 	remote terminal for the device created by Connect. **Remember to do this as the `pi` user**!
+	- If you don’t have a RPi, do this in a remote terminal for the device created by Connect. **Remember to do this as the `pi` user**!
 
 ## Next Lab ##
-Move on to the next lab, **Update a Device While its Program Runs**.
+Move on to the next lab, [Update a Device While its Program Runs](Update-device.md).
