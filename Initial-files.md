@@ -23,7 +23,11 @@ Use-cases include manufacturing, automotive, security cameras, kiosks, and robot
 2. Name the flow `Initial Files`.
 3. Drag the **Deploy Files** block into the flow and click the **pencil icon** to edit the block.
 	- **Destination**: `/home/pi`
-	- Specify the 3 files for this sample project. They are available for download from git.
+	- Specify the 3 files for this sample project.
+		- `demo.cpp`
+		- `Makefile`
+		- `Message.txt`
+	- These are available for download from git, in the `code` directory.
     ````bash
     git clone https://github.com/NickR2600/ConnectDemo01.git
     ````
