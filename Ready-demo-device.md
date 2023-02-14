@@ -27,8 +27,7 @@ Use-cases include manufacturing, automotive, security cameras, kiosks, and robot
 
 The device should be ready in about one minute. Try refreshing your browser if it doesn’t automatically show in the **Devices** list.
 
-### Create the User `pi` ###
-It's possible to work with Connect with only the root user, but creating a user `pi` helps consolidate later lab instructions.
+### Install the gcc Toolchain ###
 
 4. Click the button for remote control access to the device. Within a few seconds, a reverse SSH tunnel is created. You will do this as the user `root`. Click **Connect**.
     ![](img/RemoteControl1.png)
@@ -36,6 +35,10 @@ It's possible to work with Connect with only the root user, but creating a user 
     ````
     sudo apt install build-essential
     ````
+
+### Create the User `pi` ###
+It's possible to work with Connect with only the `root` user, but creating a user `pi` helps consolidate later lab instructions.
+
 6. Create the user `pi` and give it a password:
     ````
     - useradd –m pi
