@@ -32,12 +32,20 @@ It's possible to work with Connect with only the root user, but creating a user 
 
 4. Click the button for remote control access to the device. Within a few seconds, a reverse SSH tunnel is created. You will do this as the user `root`. Click **Connect**.
     ![](img/RemoteControl1.png)
-5. Create the user `pi` and give it a password:
+5. Install the gcc toolchain:
+    ````
+    sudo apt install build-essential
+    ````
+6. Create the user `pi` and give it a password:
     ````
     - useradd –m pi
 	- passwd pi
     ````
-6. Switch to the user `pi`.
+7. Make `pi` a super user:
+    ````
+    sudo usermod -aG sudo pi
+    ````
+8. Switch to the user `pi`.
     ````
     su - pi
     ````
