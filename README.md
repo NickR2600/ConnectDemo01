@@ -21,8 +21,8 @@ Technical people developing (or curious about) IoT and edge solutions, software 
 
 ## Instructions ##
 It's recommended that you have a Raspberry Pi (RPi) for these labs. If you don't have one, Connect can create a demo device.
-- [Start here if you have a RPi](Ready-RPi).
-- [Start here if you don't have a RPi](Ready-demo-device).
+- [Start here if you have a RPi](/Ready-RPi.md).
+- [Start here if you don't have a RPi](/Ready-demo-device.md).
 
 ## Workshop Abstract ##
 **IoT Management 101 with JFrog Connect - Workshop**
