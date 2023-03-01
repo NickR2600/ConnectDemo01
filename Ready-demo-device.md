@@ -15,12 +15,12 @@ JFrog Connect is a modern Linux-first IoT platform designed to efficiently monit
 Use-cases include manufacturing, automotive, security cameras, kiosks, and robots.
 
 ### Requirements ###
-- Have a JFrog Connect instance. If you don't have one already, you can quickly get a free-tier instance.
+- Have an email address that's not associated with an existing JFrog Connect free-tier instance.
 
 ## Lab Instructions ##
 
 ### Create a Demo Device ###
-1. Log in to your JFrog Connect account or choose **Start for Free**: https://jfrog.com/connect/
+1. Navigate to the Connect webpage and choose **Start for Free**: https://jfrog.com/connect/
 2. Select **Explore JFrog Connect with a free Demo Device** 
     ![](img/DemoDevice.png)
 3. Name your project.
@@ -41,6 +41,10 @@ It's possible to work with Connect with only the root user, but creating a user 
     ````
     su - pi
     ````
+7. Ensure that `gcc` and `make` are insalled:
+    ````
+    sudo apt-get install build-essential
+    ````    
 
 ## Next Lab ##
-Jump to Step 14 of the lab **Readying a Raspberry Pi**.
+Jump to Step 14 of the lab [Readying a Raspberry Pi](/Ready-RPi.md).
