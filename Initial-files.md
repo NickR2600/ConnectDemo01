@@ -44,11 +44,13 @@ Use-cases include manufacturing, automotive, security cameras, kiosks, and robot
 	- Select **Apply**, **Next**, **Finish**.
 10. In this case, unselect **Set app version**.
 11. Click **Create Deployment** and run the deployment.
+
     ![](img/Deploy2.png)
 
 ### Observe the Update ###
 12. Navigate to **Updates** > **Deployments**. 
 13. For the update you just created, click the **progress** icon.
+
     ![](img/Update1.png)
 14. Observe the progress in the dialog box and the monitor attached to your RPi.
     ![](img/Update2.png)

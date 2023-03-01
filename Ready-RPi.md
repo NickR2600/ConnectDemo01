@@ -37,6 +37,7 @@ Our setup includes a Raspberry Pi 1 Model B, 4GB SD card, and NetGear wifi adapt
     [2020-05-28 Debian Buster image](
     https://downloads.raspberrypi.org/raspios_lite_armhf/images/).
 3. Choose the SD card and write the image.
+
     ![](img/Imager1.png)
     ![](img/Imager2.png)
 
