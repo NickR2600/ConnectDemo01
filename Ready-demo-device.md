@@ -15,7 +15,7 @@ JFrog Connect is a modern Linux-first IoT platform designed to efficiently monit
 Use-cases include manufacturing, automotive, security cameras, kiosks, and robots.
 
 ### Requirements ###
-- Have an email address that's not associated with an existing JFrog Connect free-tier instance.
+- Have an email address that's not associated with an existing JFrog Connect instance.
 
 ## Lab Instructions ##
 
