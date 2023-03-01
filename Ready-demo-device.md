@@ -22,6 +22,7 @@ Use-cases include manufacturing, automotive, security cameras, kiosks, and robot
 ### Create a Demo Device ###
 1. Navigate to the Connect webpage and choose **Start for Free**: https://jfrog.com/connect/
 2. Select **Explore JFrog Connect with a free Demo Device** 
+
     ![](img/DemoDevice.png)
 3. Name your project.
 
